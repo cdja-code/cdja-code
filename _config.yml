@@ -140,31 +140,21 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cdja-code"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-linkedin-in"
       url: "https://linkedin.com/in/christopher-auckland"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
-      # url:
-      # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "Google Scholar"
+      icon: "fab fa-brands fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=O-Q5sswAAAAJ&hl=en"
+    - label: "ORCiD"
+      icon: "fab fa-brands fa-orcid"
+      url: "https://orcid.org/0000-0001-7613-6789"
+    - label: "UEA"
+      icon: "fas fa-fw fa-university"
+      url: "https://research-portal.uea.ac.uk/en/persons/christopher-auckland/"
   since: "2026"
 
 
