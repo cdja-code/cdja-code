@@ -67,8 +67,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
-search                   : # true, false (default)
+  hide                   : true # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "Christopher Auckland"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Chris-Auckland.jpg.webp"
   bio              : "Physical Oceanography PDRA at the University of East Anglia"
   location         : "Norwich/Oban UK"
   email            : "c.auckland@uea.ac.uk"
@@ -132,13 +132,16 @@ author:
       url: "https://orcid.org/0000-0001-7613-6789"
     - label: "UEA Staff Profile"
       icon: "fas fa-fw fa-university"
-      url: "https://facebook.com/"
+      url: "https://research-portal.uea.ac.uk/en/persons/christopher-auckland/"
+    - label: "Challenger Society Profile"
+      icon: "fas fa-fw fa-ship"
+      url: "https://challenger-society.org.uk/dr-christopher-auckland/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cdja-code"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/christopher-auckland"
 
 # Site Footer
 footer:
