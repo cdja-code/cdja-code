@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
 
 # Site Settings
 locale                   : "en-GB"
@@ -21,7 +21,7 @@ title                    : "Christopher D. J. Auckland, PhD"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Christopher D. J. Auckland, PhD" # used for author and feed metadata
-description              : "Personal website"
+description              : "Personal website for Chris Auckland"
 url                      : "https://cdja-code.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "cdja-code/cdja-code.github.io"
@@ -165,7 +165,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-  since: "2013"
+  since: "2026"
 
 
 # Reading Files
